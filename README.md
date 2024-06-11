@@ -44,7 +44,7 @@ The Streamlit is a seperate file named as 'census_streamlit.py'
 
 ***
 
-> [!CAUTION]
+> **CAUTION:** 
 1. Kindly make sure that the required packages are installed.
 2. Please make sure you're connect to your MongoDB and MySQL server before running these files.
 3. Please run the census data cleansing.ipynb file first, because file consists the Data imports, cleaning and uploading to Database.
