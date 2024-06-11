@@ -32,18 +32,18 @@ It involves creating a pipeline that processes raw census data, performs data st
     
 > [!NOTE]
 1 - 6 were done in the 'census data cleansing.ipynb' file.
-The Streamlit is a seperate file named as 'census_streamlit.py'
+The Streamlit is a seperate file named as `census_streamlit.py`
 
 ---
 
 ### Requirements Installation
-  // Install the required packages
-  pip install -r requirements.txt
+  // Install the required packages: 
+  `pip install -r requirements.txt`
   
 ### Execute Command:
 
-  // To run census_streamlit.py file
-  streamlit run census_streamlit.py
+  // To run census_streamlit.py file: 
+  `streamlit run census_streamlit.py`
 
 ---
 
@@ -51,5 +51,5 @@ The Streamlit is a seperate file named as 'census_streamlit.py'
 1. Kindly make sure that the required packages are installed.
 2. Please make sure you're connect to your MongoDB and MySQL server before running these files.
 3. Please run the census data cleansing.ipynb file first, because file consists the Data imports, cleaning and uploading to Database.
-4. Kindly makesure that you've installed Streamlit before running the census_streamlit.py file, if not then open the terminal and execute the command - 'pip install streamlit'
-5. In order to run the census_streamlit.py , open the command prompt and use the above 'execute command'
+4. Kindly makesure that you've installed Streamlit before running the census_streamlit.py file, if not then open the terminal and execute the command - `pip install streamlit`
+5. In order to run the census_streamlit.py , open the command prompt and use the above *execute command.*
