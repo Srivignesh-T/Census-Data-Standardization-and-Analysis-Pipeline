@@ -28,10 +28,13 @@ It involves creating a pipeline that processes raw census data, performs data st
 7. Run Queries and Display output in Streamlit:
   *Execute queries to retrieve specific insights from the relational database (e.g., total population, literacy rates).
   * Display the results of the queries on a Streamlit web application for easy visualization and analysis.
-  * 
+
+    
 > [!NOTE]
 1 - 6 were done in the 'census data cleansing.ipynb' file.
 The Streamlit is a seperate file named as 'census_streamlit.py'
+
+---
 
 ### Requirements Installation
   // Install the required packages
@@ -42,7 +45,7 @@ The Streamlit is a seperate file named as 'census_streamlit.py'
   // To run census_streamlit.py file
   streamlit run census_streamlit.py
 
-***
+---
 
 > **CAUTION:** 
 1. Kindly make sure that the required packages are installed.
