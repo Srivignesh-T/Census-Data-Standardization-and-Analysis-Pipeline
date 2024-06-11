@@ -7,7 +7,7 @@ It involves creating a pipeline that processes raw census data, performs data st
 ---
 
 ## Tools Used :-
-[Python](https://www.python.org/downloads/)__, [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)__, [MySQL Connector Python](https://pypi.org/project/mysql-connector-python/)__, [PyMongo](https://pypi.org/project/pymongo/)__, [Streamlit](https://docs.streamlit.io/)__
+[Python](https://www.python.org/downloads/)__, [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)__, [MySQL Connector Python](https://pypi.org/project/mysql-connector-python/)__, [PyMongo](https://pypi.org/project/pymongo/)__, [Streamlit](https://docs.streamlit.io/)
 
 ---
 
@@ -28,6 +28,7 @@ It involves creating a pipeline that processes raw census data, performs data st
 7. Run Queries and Display output in Streamlit:
   *Execute queries to retrieve specific insights from the relational database (e.g., total population, literacy rates).
   * Display the results of the queries on a Streamlit web application for easy visualization and analysis.
+  * 
 [!NOTE]
 1 - 6 were done in the 'census data cleansing.ipynb' file.
 The Streamlit is a seperate file named as 'census_streamlit.py'
